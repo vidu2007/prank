@@ -1,2 +1,2 @@
-let word = 'Fuck';
+let word = 'Fuck!';
 document.getElementById('text').innerHTML = word;
