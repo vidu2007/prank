@@ -1,2 +1,2 @@
-let word = 'Good Boy';
+let word = 'Fuck';
 document.getElementById('text').innerHTML = word;
