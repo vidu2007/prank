@@ -1,2 +1,2 @@
-let word = 'Sethuja is a fool';
+let word = 'Sethuja is a fool.';
 document.getElementById('text').innerHTML = word;
